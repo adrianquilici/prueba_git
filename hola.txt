@@ -1,2 +1,5 @@
 -Hola kily!
 - hola kily, desde la carpeta PruebaGit
+
+-11/7 hola kily desde la carpeta clon, parado en master
+
